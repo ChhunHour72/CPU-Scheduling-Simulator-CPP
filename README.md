@@ -42,9 +42,9 @@ Execute the compiled program:
    ```bash
    ./cpu_scheduling
 
-6. **Follow the On-Screen Instructions:**
--Select a scheduling algorithm from the menu.
--Enter the number of processes and their details (Process ID, Arrival Time, Burst Time).
--For Round Robin, enter the time quantum.
--View the results (Gantt chart, waiting times, turnaround times, and averages).
+5. **Follow the On-Screen Instructions:**
+- Select a scheduling algorithm from the menu.
+- Enter the number of processes and their details (Process ID, Arrival Time, Burst Time).
+- For Round Robin, enter the time quantum.
+- View the results (Gantt chart, waiting times, turnaround times, and averages).
 
