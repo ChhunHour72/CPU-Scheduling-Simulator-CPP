@@ -33,8 +33,7 @@ The program provides a menu-driven interface for users to select a scheduling al
 2. **Compile the Program:**
   Use g++ to compile the C++ file:
    ```bash
-   git clone https://github.com/ChhunHour72/CPU-Scheduling-Simulator-CPP.git
-   cd CPU-Scheduling-Simulator-CPP
+g++ cpu_scheduling.cpp -o cpu_scheduling
 
 3. **Run the Program:**
 Execute the compiled program:
