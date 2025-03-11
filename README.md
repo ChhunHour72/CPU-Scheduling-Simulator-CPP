@@ -31,15 +31,15 @@ The program provides a menu-driven interface for users to select a scheduling al
    cd CPU-Scheduling-Simulator-CPP
 
 2. **Compile the Program:**
-Use g++ to compile the C++ file:
+  Use g++ to compile the C++ file:
 
-```bash
+    ```bash
   g++ cpu_scheduling.cpp -o cpu_scheduling
 
 3. **Run the Program:**
 Execute the compiled program:
 
-```bash
+    ```bash
 ./cpu_scheduling
 
 4. **Follow the On-Screen Instructions:**
