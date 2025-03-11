@@ -33,12 +33,14 @@ The program provides a menu-driven interface for users to select a scheduling al
 2. **Compile the Program:**
   Use g++ to compile the C++ file:
 
-    ```bash g++ cpu_scheduling.cpp -o cpu_scheduling
+    ```bash
+  g++ cpu_scheduling.cpp -o cpu_scheduling
 
 3. **Run the Program:**
 Execute the compiled program:
 
-    ```bash ./cpu_scheduling
+    ```bash
+  ./cpu_scheduling
 
 4. **Follow the On-Screen Instructions:**
 -Select a scheduling algorithm from the menu.
@@ -46,7 +48,3 @@ Execute the compiled program:
 -For Round Robin, enter the time quantum.
 -View the results (Gantt chart, waiting times, turnaround times, and averages).
 
-# Repository Structure
-CPU-Scheduling-Simulator-CPP/
-├── cpu_scheduling.cpp   # Main C++ program file
-├── README.md            # Project documentation
