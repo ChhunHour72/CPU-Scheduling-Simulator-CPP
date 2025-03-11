@@ -1,4 +1,4 @@
-CPU Scheduling Simulator in C++
+#CPU Scheduling Simulator in C++
 This project simulates four CPU scheduling algorithms:
 
 First-Come, First-Served (FCFS)
