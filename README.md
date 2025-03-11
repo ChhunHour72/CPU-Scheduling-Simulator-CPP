@@ -32,8 +32,8 @@ The program provides a menu-driven interface for users to select a scheduling al
 
 2. **Compile the Program:**
   Use g++ to compile the C++ file:
-   ```bash
-g++ cpu_scheduling.cpp -o cpu_scheduling
+   ``bash
+    g++ cpu_scheduling.cpp -o cpu_scheduling
 
 3. **Run the Program:**
 Execute the compiled program:
