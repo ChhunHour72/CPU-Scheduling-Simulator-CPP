@@ -29,3 +29,29 @@ The program provides a menu-driven interface for users to select a scheduling al
    ```bash
    git clone https://github.com/ChhunHour72/CPU-Scheduling-Simulator-CPP.git
    cd CPU-Scheduling-Simulator-CPP
+2. Compile the Program:
+Use g++ to compile the C++ file:
+
+bash
+Copy
+g++ cpu_scheduling.cpp -o cpu_scheduling
+3. Run the Program:
+Execute the compiled program:
+
+bash
+Copy
+./cpu_scheduling
+4. Follow the On-Screen Instructions:
+Select a scheduling algorithm from the menu.
+
+Enter the number of processes and their details (Process ID, Arrival Time, Burst Time).
+
+For Round Robin, enter the time quantum.
+
+View the results (Gantt chart, waiting times, turnaround times, and averages).
+
+Repository Structure
+Copy
+CPU-Scheduling-Simulator-CPP/
+├── cpu_scheduling.cpp   # Main C++ program file
+├── README.md            # Project documentation
